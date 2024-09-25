@@ -15,6 +15,7 @@ stage('two') {
 stage('three') {
             steps {
                 echo 'iam a devops engineer'
+                echo 'iam a cloud engineer'
             }
         }
     }
