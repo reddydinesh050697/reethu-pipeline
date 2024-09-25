@@ -15,6 +15,7 @@ stage('two') {
 stage('three') {
             steps {
                 echo 'iam a devops engineer'
+                echo 'this is a push event'
             }
         }
     }
